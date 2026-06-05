@@ -4,7 +4,6 @@ Predicts heart disease using **AdaBoost** ML model — deployed with **Streamlit
 
 🔗 **[Live App](https://your-app-link.streamlit.app)**
 
-
 ## Features
 - Predicts heart disease based on patient data
 - Confidence score — Disease % vs No Disease %
