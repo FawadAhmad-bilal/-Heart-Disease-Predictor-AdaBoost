@@ -2,7 +2,7 @@
 
 Predicts heart disease using **AdaBoost** ML model — deployed with **Streamlit**.
 
-🔗 **[Live App]((https://fawadahmadbilal1.streamlit.app/))**
+https://fawadahmadbilal1.streamlit.app/
 
 ## Features
 - Predicts heart disease based on patient data
